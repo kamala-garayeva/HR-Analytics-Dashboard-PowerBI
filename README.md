@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 An interactive Power BI dashboard that turns raw HR data into actionable insights — helping HR teams and leadership understand employee attrition, compensation, satisfaction, and workforce trends at a glance.
+![Dashboard Preview](Hr%20Analytics%20Dashboard%20picture.jpeg)
 
 ---
 
